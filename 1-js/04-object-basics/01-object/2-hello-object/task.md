@@ -4,7 +4,7 @@ importance: 5
 
 # Hello, object
 
-Write the code, one line for each action:
+प्रोग्राम लिखिए  , हर एक काम के लिए एक लाइन :
 
 1. Create an empty object `user`.
 2. Add the property `name` with the value `John`.
